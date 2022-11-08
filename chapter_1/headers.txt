@@ -1,0 +1,20 @@
+Server: nginx
+Date: Tue, 08 Nov 2022 18:52:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+X-DNS-Prefetch-Control: off
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src 'none'; frame-ancestors https://*.yandex.ru https://yandex.ru https://*.ya.ru https://ya.ru; connect-src 'self'; script-src 'nonce-abfd3466299034dd14466ec9cc915453' 'self'; img-src 'self'
+Set-Cookie: mda2_beacon=1667933533676; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; Path=/, ys=c_chck.2822538767; Domain=.yandex.ru; Secure; Path=/, i=occ4iUT9YP9fsH8bIhau81HBMysqceigH47DVUpXaP5Y9dDh4KTkVprgPkEuMV9aW086O1RH4vc+Pbi7g/56/Zdqv78=; Domain=.yandex.ru; Expires=Fri, 05 Nov 2032 18:52:13 GMT; Secure; HttpOnly; Path=/, yandexuid=1210440341667933533; Domain=.yandex.ru; Expires=Fri, 05 Nov 2032 18:52:13 GMT; Secure; Path=/, mda2_domains=ya.ru; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; Path=/
+Referrer-Policy: origin
+ETag: W/"7e1-0i4FYJV6zVbqNF3j49hJeC67S5Q"
+Strict-Transport-Security: max-age=315360000; includeSubDomains
+Content-Encoding: gzip
