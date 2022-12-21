@@ -23,5 +23,6 @@ try:
             buffer += data
 
     print(f'Все данные: {buffer}')
+    # connection.sendall(buffer) передать обратно клиенту копию сообщения
 finally:
     server_socket.close()
