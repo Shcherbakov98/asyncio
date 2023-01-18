@@ -10,7 +10,7 @@ server_address = ('127.0.0.1', 8000)
 server_socket.bind(server_address)
 # прослушиваем запросы на подключение
 server_socket.listen()
-# сокет неблокирующий (все блокирующие методы сразу возвращают управление
+# сокет неблокирующий (все блокирующие методы сразу возвращают управление)
 server_socket.setblocking(False)
 
 connections = []
