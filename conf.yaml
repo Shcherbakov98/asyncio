@@ -1,5 +1,6 @@
 database:
   host: 'localhost'
-  user: 'postgres'
-  database: 'postgres'
+  user: 'artem'
+  database: 'warehouse'
   password: '123'
+  port: '5432'
