@@ -29,8 +29,6 @@ async def main():
         print(f'Результат запроса: {brands}')
         await connection.close()
 
-        await connection.close()
-
 
 if __name__ == '__main__':
     asyncio.run(main())
