@@ -48,3 +48,14 @@ for result in mapped_result:
 # редуцировать (свести) все промежуточные счетчики в окончательный результат
 print('Final result:')
 print(functools.reduce(merge_dict, mapped_result))
+
+# Mapped result:
+# {'I': 2, 'know': 2, 'what': 1}
+# {'I': 2, 'know': 2, 'that': 1}
+# {'I': 1, 'don`t': 1, 'know': 1, 'much': 1}
+# {'They': 1, 'don`t': 1, 'know': 1, 'much': 1}
+# Final result:
+# {'I': 5, 'know': 6, 'what': 1, 'that': 1, 'don`t': 2, 'much': 2, 'They': 1}
+
+# Суть MapReduce сначала разбить на подзадачи задачу, затем параллельно каждую подзадачу отобразить (map) данные на
+# частичный результат, затем редуцировать (reduce) т.е свести в один все ответы из каждой подзадачи
