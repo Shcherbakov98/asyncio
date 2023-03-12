@@ -16,3 +16,4 @@ with open('googlebooks-eng-all-1gram-20120701-a', encoding='utf-8') as file:
     print(f'Total time: {end - start:.4f}')
 
 # 87 секунд
+# dataset: https://storage-googleapis.com/books/ngrams/books/googlebooks-eng-all-1gram-201200701-a.gz
