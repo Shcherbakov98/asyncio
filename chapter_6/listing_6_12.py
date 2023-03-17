@@ -7,6 +7,10 @@ def increment_value(shared_int: Value):
     shared_int.value += 1
     shared_int.get_lock().release()
 
+    # or
+    # with shared_int.get_lock():
+    #   shared_int.value += 1
+
 
 if __name__ == '__main__':
     for _ in range(100):
