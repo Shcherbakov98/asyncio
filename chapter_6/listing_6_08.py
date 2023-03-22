@@ -49,6 +49,9 @@ async def main(partition_size: int):
                     chunk = []
                 else:
                     chunk.append(line)
+            else:
+                if chunk:
+                    tasks.append(loop.run_in_executor(pool, functools.partial(map_frequencies, chunk)))
 
             # for chunk in partition(contents, chunk_size=partition_size):
             #     tasks.append(loop.run_in_executor(pool, functools.partial(map_frequencies, chunk)))
