@@ -1,8 +1,5 @@
 <h1 align="center">  Asyncio и конкурентное программирование на Python </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&center=true&vCenter=true&width=800&height=100&lines=%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B+%D0%B8%D0%B7+%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8+Python+Concurrency+with+asyncio+(Matthew+Fowler)" alt="Typing SVG" /></a>
-<style type="text/css" style="visibility:hidden">
-h1, h2, h6 {margin: 0; padding: 0;}
-</style>
 <nav class="aa">
   <h2>Оглавление:</h2>
   <ol>
@@ -24,7 +21,7 @@ h1, h2, h6 {margin: 0; padding: 0;}
 </nav>
 
 <h2>Листинги по главам:</h2>
-<h4 id="welcome">1) <a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1">Знакомство с asyncio:</a></h4>
+<h4 id="welcome"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1">1) Знакомство с asyncio:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_1.py">Операции, ограниченные производительностью ввода-вывода и быстродействием процессора</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_2.py">Процессы и потоки в простом Python приложении</a></li>
