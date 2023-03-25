@@ -30,7 +30,7 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_5.py">Генерирование последовательности Фибоначчи и его хронометраж</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_6.py">Многопоточное вычисление последовательности чисел Фибоначчи</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_7.py">Синхронное чтение кода состояния</a></li>
-<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_7.py">Многопоточное чтение кода состояния</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_8.py">Многопоточное чтение кода состояния</a></li>
 </ol>
 
 
