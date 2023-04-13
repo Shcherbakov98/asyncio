@@ -16,4 +16,5 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server:
     while True:
         conn, _ = server.accept() # блокируется в ожидании клиентов
         thread = Thread(target=echo, args=(conn, )) # как только клиент подключился, создать поток для выполнения
+        # thread.daemon = True сделать поток демон, который будет завершаться вместе с главным потоком по ctrl+c
         thread.start() # начать выполнение потока
