@@ -1,5 +1,4 @@
 <h1 align="center">  Asyncio и конкурентное программирование на Python </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&center=true&vCenter=true&width=800&height=100&lines=%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B+%D0%B8%D0%B7+%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8+Python+Concurrency+with+asyncio+(Matthew+Fowler)" alt="Typing SVG" /></a>
 <nav class="aa">
   <h2>Оглавление:</h2>
   <ol>
