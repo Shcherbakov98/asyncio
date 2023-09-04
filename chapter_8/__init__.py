@@ -1,0 +1,1 @@
+from listing_8_05 import create_stdin_reader
