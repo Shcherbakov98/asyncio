@@ -12,7 +12,7 @@ def restore_cursor_position():
 
 
 def move_to_top_of_screen():
-    sys.stdout.write('\03[H')
+    sys.stdout.write('\033[H')
 
 
 def delete_line():
@@ -20,7 +20,7 @@ def delete_line():
 
 
 def clear_line():
-    sys.stdout.write('\033[2K\033[OG')
+    sys.stdout.write('\033[2K\033[0G')
 
 
 def move_back_one_char():
