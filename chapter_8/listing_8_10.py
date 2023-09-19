@@ -4,7 +4,7 @@ import os
 import sys
 import tty
 from collections import deque
-sys.path.append('../')
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir)))
 from chapter_8.listing_8_05 import create_stdin_reader
 from chapter_8.listing_8_07 import *
 from chapter_8.listing_8_08 import read_line
