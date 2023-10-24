@@ -18,9 +18,9 @@ class ChatServer(object):
     # в противном случае, отключить его
     async def client_connected(self, reader: StreamReader, writer: StreamWriter):
         command = await reader.readline()
-        print(f'CONNECTED {reader} {writer}')
+        print(f'CONNECTED {reader} {writer}', flush=True)
         command, args = command.split(b' ')
-        if command == b'CONNECTED':
+        if command == b'CONNECT':
             username = args.replace(b'\n', b'').decode()
             self._add_user(username, reader, writer)
             await self._on_connect(username, writer)
