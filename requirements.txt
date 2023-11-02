@@ -1,5 +1,9 @@
 requests
 aiohttp==3.8.1
+flask
+psycopg2-binary
+gunicorn
+Werkzeug
 asyncpg
 pyaml
 numpy
