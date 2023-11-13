@@ -10,3 +10,4 @@ pyaml
 numpy
 starlette
 websockets
+django
