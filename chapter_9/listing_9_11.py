@@ -34,4 +34,4 @@ async def requests_view(request):
     url: str = request.GET['url']
     request_num: int = int(request.GET['request_num'])
     context = await make_request(url, request_num)
-    return render(request, 'async_api/request.html', context)
+    return render(request, 'async_api/requests.html', context)
