@@ -5,7 +5,7 @@ from aiohttp import ClientSession
 import aiohttp
 from functools import partial
 from django.http import HttpResponse
-from asgiref.sync import sync_to_async
+from asgiref.sync import sync_to_async, async_to_sync
 
 
 async def get_url_details(session: ClientSession, url):
@@ -51,3 +51,10 @@ async def sync_to_async_view(request):
     function = sync_to_async(partial(sleep, sleep_time), thread_sensitive=thread_sensitive)
     await asyncio.gather(*[function() for _ in range(num_calls)])
     return HttpResponse('')
+
+
+def requests_view_sync(request):
+    url: str = request.GET['url']
+    request_num: int = int(request.GET['request_num'])
+    context = async_to_sync(partial(make_request, url, request_num))()
+    return render(request, 'async_api/requests.html', context)
