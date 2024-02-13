@@ -25,4 +25,4 @@ async def retry(
             )
             await asyncio.sleep(retry_interval)
         #  если было слишком много неудачных попыток, возбудить исключение, уведомляющее об этом
-        raise TooManyRetries()
+    raise TooManyRetries()
