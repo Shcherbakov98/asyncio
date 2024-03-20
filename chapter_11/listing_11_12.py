@@ -17,7 +17,7 @@ class FileServer:
     @staticmethod
     async def dump_contents_on_complete(upload: FileUpload):
         file_contents = await upload.get_contents()
-        print(file_contents)
+        print(file_contents, flush=True)
 
     def _client_connected(self, reader: StreamReader, writer: StreamWriter):
         upload = FileUpload(reader, writer)
@@ -26,7 +26,7 @@ class FileServer:
 
 
 async def main():
-    server = FileServer('127.0.0.1', 9000)
+    server = FileServer('localhost', 9000)
     await server.start_server()
 
 
