@@ -1,5 +1,5 @@
 requests
-aiohttp==3.8.1
+aiohttp
 flask
 psycopg2-binary
 gunicorn
@@ -11,3 +11,4 @@ numpy
 starlette
 websockets
 django
+beautifulsoup4
