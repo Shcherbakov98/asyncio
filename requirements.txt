@@ -12,3 +12,4 @@ starlette
 websockets
 django
 beautifulsoup4
+uvloop
