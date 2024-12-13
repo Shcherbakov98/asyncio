@@ -72,7 +72,7 @@ class EventLoop:
             for task in self._tasks_to_run:
                 task.step()
 
-            self._tasks_to_run = [task for task in self._tasks_to_run if not task.is_finished()]
+            self._tasks_to_run = [task for task in self._tasks_to_run if not task.is_finished]
             events = self.selector.select()
             print('В селекторе есть событие, обрабатывается...')
             for key, mask in events:
