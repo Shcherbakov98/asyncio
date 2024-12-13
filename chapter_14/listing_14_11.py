@@ -14,7 +14,7 @@ class CustomTask(CustomFuture):
     # выполнить один шаг сопрограммы
     def step(self):
         try:
-            if self._task_state in None:
+            if self._task_state is None:
                 self._task_state = self._coro.send(None)
             # если сопрограмма отдает future, вызвать add_done_callback
             if isinstance(self._task_state, CustomFuture):
