@@ -2,25 +2,25 @@
 <nav class="aa">
   <h2>Оглавление:</h2>
   <ol>
-    <li><a href="#welcome">Знакомство с asyncio</a>
-    <li><a href="#basis">Основы asyncio</a>
-    <li><a href="#bear">Первое приложение asyncio</a>
-    <li><a href="#bear">Конкурентные веб-запросы</a>
-    <li><a href="#bear">Неблокирующие драйверы баз данных</a>
-    <li><a href="#bear">Счетные задачи</a>
-    <li><a href="#bear">Решение проблем блокирования с помощью потоков</a>
-    <li><a href="#bear">Потоки данных</a>
-    <li><a href="#bear">Веб-приложения</a>
-    <li><a href="#bear">Микросервисы</a>
-    <li><a href="#bear">Синхронизация</a>
-    <li><a href="#bear">Асинхронные очереди</a>
-    <li><a href="#bear">Управление подпроцессами</a>
-    <li><a href="#bear">Продвинутое использование asyncio</a>
+    <li><a href="#chapter_1">Знакомство с asyncio</a>
+    <li><a href="#chapter_2">Основы asyncio</a>
+    <li><a href="#chapter_3">Первое приложение asyncio</a>
+    <li><a href="#chapter_4">Конкурентные веб-запросы</a>
+    <li><a href="#chapter_5">Неблокирующие драйверы баз данных</a>
+    <li><a href="#chapter_6">Счетные задачи</a>
+    <li><a href="#chapter_7">Решение проблем блокирования с помощью потоков</a>
+    <li><a href="#chapter_8">Потоки данных</a>
+    <li><a href="#chapter_9">Веб-приложения</a>
+    <li><a href="#chapter_10">Микросервисы</a>
+    <li><a href="#chapter_11">Синхронизация</a>
+    <li><a href="#chapter_12">Асинхронные очереди</a>
+    <li><a href="#chapter_13">Управление подпроцессами</a>
+    <li><a href="#chapter_14">Продвинутое использование asyncio</a>
   </ol>
 </nav>
 
 <h2>Листинги по главам:</h2>
-<h4 id="welcome"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1">1) Знакомство с asyncio:</a></h4>
+<h4 id="chapter_1"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1">1) Знакомство с asyncio:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_1.py">Операции, ограниченные производительностью ввода-вывода и быстродействием процессора</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_2.py">Процессы и потоки в простом Python приложении</a></li>
@@ -32,7 +32,7 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_8.py">Многопоточное чтение кода состояния</a></li>
 </ol>
 
-<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2">2) Основы asyncio:</a></h4>
+<h4 id="chapter_2"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2">2) Основы asyncio:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_1.py">Использование ключевого слова async</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_2.py">Сравнение сопрограмм с обычными функциями</a></li>
@@ -59,7 +59,7 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_23.py">Выполнение счетного кода в отладочном режиме</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_24.py">Изменение продолжительности медленного обратного вызова</a></li>
 </ol>
-<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3">3) Первое приложение asyncio:</a></h4>
+<h4 id="chapter_3"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3">3) Первое приложение asyncio:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_1.py">Запуск сервера и прослушивание порта для подключения</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_2.py">Чтение данных из сокета</a></li>
@@ -72,7 +72,7 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_9.py">Добавление обработчика сигнала, снимающего все задачи</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_10.py">Корректная остановка</a></li>
 </ol>
-<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4">4) Конкурентные веб-запросы:</a></h4>
+<h4 id="chapter_4"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4">4) Конкурентные веб-запросы:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_1.py">Асинхронный контекстный менеджер, ожидающий подключение клиента</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_2.py">Отправка веб-запроса с помощью aiohttp</a></li>
@@ -91,7 +91,7 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_15.py">Использование тайм-аутов в wait</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_16.py">Отмена медленного запроса</a></li>
 </ol>
-<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5">5) Неблокирующие драйверы баз данных:</a></h4>
+<h4 id="chapter_5"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5">5) Неблокирующие драйверы баз данных:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_1.py">Подключение к базе данных Postgres от имени пользователя по умолчанию</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_2.py">Команды создания таблиц в схеме базы данных о товарах</a></li>
@@ -111,7 +111,7 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_16.py">Перемещение по курсору и выборка записей</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_17.py">Получение заданного числа элементов с помощью асинхронного генератора</a></li>
 </ol>
-<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6">6) Счетные задачи:</a></h4>
+<h4 id="chapter_6"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6">6) Счетные задачи:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_01.py">Два параллельных процесса</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_02.py">Создание пула процессов</a></li>
@@ -129,5 +129,26 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_14.py">Наблюдение за ходом отображения</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_15.py">Цикл событий в каждом процессе</a></li>
 </ol>
-
+<h4 id="chapter_7"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7">7) Решения проблем блокирования с помощью потоков:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_01.py">Многопоточный эхо-сервер</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_02.py">Создание подкласса Thread для чистой остановки</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_03.py">Базовое использование requests</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_04.py">Выполнение запросов с помощью пула потоков</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_05.py">Использование исполнителя пула потоков совместно с asyncio</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_06.py">Использование исполнителя по умолчанию</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_07.py">Использование сопрограммы to_thread</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_08.py">Печать информации о состоянии отправки запросов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_09.py">Блокировки и рекурсия</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_10.py">Класс потокобезопасного списка</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_11.py">Взаимоблокировка</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_12.py">Приложение 'hello, world' на Tkinter</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_13.py">Класс нагрузочного тестирования</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_14.py">Tkinter GUI</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_15.py">Приложение для нагрузочного тестирования</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_16.py">Хеширование паролей с помощью алгоритма scrypt</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_17.py">Хеширование с применением многопоточности и asyncio</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_18.py">Вычисление средних в большой матрице с помощью NumPy</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_19.py">Многопоточность с NumPy</a></li>
+</ol>
 
