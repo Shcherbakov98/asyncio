@@ -91,7 +91,7 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_15.py">Использование тайм-аутов в wait</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_16.py">Отмена медленного запроса</a></li>
 </ol>
-<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5">5)Неблокирующие драйверы баз данных:</a></h4>
+<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5">5) Неблокирующие драйверы баз данных:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_1.py">Подключение к базе данных Postgres от имени пользователя по умолчанию</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_2.py">Команды создания таблиц в схеме базы данных о товарах</a></li>
@@ -110,6 +110,24 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_15.py">Потоковая обработка результатов</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_16.py">Перемещение по курсору и выборка записей</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_5/listing_5_17.py">Получение заданного числа элементов с помощью асинхронного генератора</a></li>
+</ol>
+<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6">6) Счетные задачи:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_01.py">Два параллельных процесса</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_02.py">Создание пула процессов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_03.py">Асинхронное получение результатов от пула процессов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_04.py">Исполнители пула процессов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_05.py">Исполнители пула процессов в сочетании с asyncio</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_06.py">Однопоточная модель MapReduce</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_07.py">Подсчет частот слов, начинающихся буквой 'a'</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_08.py">Распараллеливание с помощью MapReduce и пула процессов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_09.py">Распараллеливание операции reduce</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_10.py">Разделяемые значения и массивы</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_11.py">Параллельное инкрементирование разделяемого счетчика</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_12.py">Захват и освобождение блокировки</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_13.py">Инициализация пулла процессов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_14.py">Наблюдение за ходом отображения</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_6/listing_6_15.py">Цикл событий в каждом процессе</a></li>
 </ol>
 
 
