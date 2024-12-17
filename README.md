@@ -32,7 +32,7 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1/listing_1_8.py">Многопоточное чтение кода состояния</a></li>
 </ol>
 
-<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_1">2) Основы asyncio:</a></h4>
+<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2">2) Основы asyncio:</a></h4>
 <ol>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_1.py">Использование ключевого слова async</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_2.py">Сравнение сопрограмм с обычными функциями</a></li>
@@ -58,6 +58,19 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_22.py">Получение доступа к циклу событий</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_23.py">Выполнение счетного кода в отладочном режиме</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_2/listing_2_24.py">Изменение продолжительности медленного обратного вызова</a></li>
+</ol>
+<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3">3) Первое приложение asyncio:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_1.py">Запуск сервера и прослушивание порта для подключения</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_2.py">Чтение данных из сокета</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_3.py">Подключение нескольких клиентов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_4.py">Создание неблокирующего сокета</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_5.py">Первая попытка создать неблокирующий сокет</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_6.py">Перехват и игнорирование ошибок блокирующего ввода-вывода</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_7.py">Использование селектора для построения неблокирующего сервера</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_8.py">Построение асинхронного эхо-сервера</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_9.py">Добавление обработчика сигнала, снимающего все задачи</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_10.py">Корректная остановка</a></li>
 </ol>
 
 
