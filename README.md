@@ -72,6 +72,25 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_9.py">Добавление обработчика сигнала, снимающего все задачи</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_3/listing_3_10.py">Корректная остановка</a></li>
 </ol>
+<h4 id="basis"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4">4) Конкурентные веб-запросы:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_1.py">Асинхронный контекстный менеджер, ожидающий подключение клиента</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_2.py">Отправка веб-запроса с помощью aiohttp</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_3.py">Задание тайм-аутов в aiohttp</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_4.py">Неправильное использование спискового включения для создания ожидания задач</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_5.py">Использование спискового включения для конкурентного выполнения задач</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_6.py">Конкурентное выполнение запросов с помощью gather</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_7.py">Завершение допускающих ожидания объектов не по порядку</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_8.py">Использование as_completed</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_9.py">Задание тайм-аута для as_completed</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_10.py">Изучение поведения wait по умолчанию</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_11.py">Обработка исключений при использовании wait</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_12.py">Отмена работающих запросов при возникновении исключения</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_13.py">Обработка запросов по мере завершения</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_14.py">Обработка всех результатов по мере поступления</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_15.py">Использование тайм-аутов в wait</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_4/listing_4_16.py">Отмена медленного запроса</a></li>
+</ol>
 
 
 
