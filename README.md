@@ -201,3 +201,21 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_11.py">Простой прерыватель</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_12.py">Прерыватель в действии</a></li>
 </ol>
+<h4 id="chapter_11"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11">11) Синхронизация:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_01.py">Попытка создать состояние гонки</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_02.py">Состояние гонки в однопоточной программе</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_03.py">Состояние гонки с участием словарей</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_04.py">Использование блокировки asyncio</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_05.py">Использование блокировок с целью избежать состояния гонки</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_06.py">Использование семафоров</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_07.py">Ограничение числа запросов к API с помощью семафора</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_08.py">Освобождение больше, чем захватов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_09.py">Ограниченные семафоры</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_10.py">Операции с событиями</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_11.py">API загрузки файла на сервер</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_12.py">Использование разработанного API в сервере загрузки файлов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_13.py">Исполнитель не поспевает за событиями</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_14.py">Иллюстрация условий</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_15.py">Применение условий для ожидания конкретного состояния</a></li>
+</ol>
