@@ -151,4 +151,38 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_18.py">Вычисление средних в большой матрице с помощью NumPy</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_7/listing_7_19.py">Многопоточность с NumPy</a></li>
 </ol>
-
+<h4 id="chapter_8"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8">8) Потоки данных:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_01.py">Выполнение HTTP запроса с помощью транспортного механизма и протокола</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_02.py">Использование протокола</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_03.py">Отправка HTTP запроса с помощью потоковых писателей и читателей</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_04.py">Попытка выполнения задач в фоновом режиме</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_05.py">Асинхронный читатель стандартного ввода</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_06.py">Использование потоковых читателей для ввода данных</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_07.py">Вспомогательные функции для вывода управляющих последовательностей</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_08.py">Чтение из стандартного ввода по одному символу</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_09.py">Хранилище сообщений</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_10.py">Приложение для асинхронной задержки</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_11.py">Асинхронный командный SQL-клиент</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_12.py">Создание эхо-сервера с помощью серверных объектов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_13.py">Чат сервер</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_8/listing_8_14.py">Клиент чат-сервера</a></li>
+</ol>
+<h4 id="chapter_9"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9">9) Потоки данных:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_01.py">Оконечная точка для возврата текущего времени</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_02.py">Подключение к базе данных о товарах</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_03.py">Получение конкретного товара</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_04.py">Оконечная точка для создания товара</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_05.py">Приложение Flask для выборки торговых марок</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_06.py">WSGI-приложение</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_07.py">Простое ASGI-приложение</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_08.py">Оконечная точка brands в приложении Starlette</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_09.py">Оконечная точка типа WebSocket в Starlette</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_10.py">Использование оконечной точки для типа WebSocket</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_11.py">Асинхронное представление Django</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_12.py">Представление requests</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_13.py">Файл async_api/url.py</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_14.py">Представление sync_to_async_view</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_15.py">Вызов асинхронного кода из синхронного представления</a></li>
+</ol>
