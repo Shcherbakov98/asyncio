@@ -186,3 +186,18 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_14.py">Представление sync_to_async_view</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_9/listing_9_15.py">Вызов асинхронного кода из синхронного представления</a></li>
 </ol>
+<h4 id="chapter_10"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10">10) Микросервисы:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_01.py">Сервис наличия на складе</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_02.py">Таблица корзины user_cart</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_03.py">Таблица избранных товаров пользователя</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_04.py">Создание, уничтожение пула подключений к базе данных</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_05.py">Сервис избранного</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_06.py">Сервис корзины</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_07.py">Сервис товаров</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_08.py">Сервис backend_for_frontend для товаров</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_09.py">Сопрограмма retry</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_10.py">Тестирование сопрограммы retry</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_11.py">Простой прерыватель</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_10/listing_10_12.py">Прерыватель в действии</a></li>
+</ol>
