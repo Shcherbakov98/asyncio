@@ -219,3 +219,49 @@
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_14.py">Иллюстрация условий</a></li>
 <li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_11/listing_11_15.py">Применение условий для ожидания конкретного состояния</a></li>
 </ol>
+<h4 id="chapter_12"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12">12) Асинхронные очереди:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_01.py">Очередь в супермаркете</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_02.py">Использование методов-сопрограмм очередь</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_03.py">Использование очередей в веб-приложении</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_04.py">Робот с очередью</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_05.py">Очередь с приоритетами, содержащая кортежи</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_06.py">Очередь с приоритетами, содержащая экземпляры класса данных</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_07.py">Очередь с приоритетами в веб-приложении</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_08.py">Элементы очереди с одинаковыми приоритетами</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_09.py">Устранение неоднозначности в очереди с приоритетами</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_12/listing_12_10.py">LIFO - очередь</a></li>
+</ol>
+<h4 id="chapter_13"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13">13) Управление подпроцессами:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_01.py">Выполнение простой команды в подпроцессе</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_02.py">Завершение подпроцесса</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_03.py">Демонстрации читателя стандартного вывода</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_04.py">Порождение большого объема вывода</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_05.py">Взаимоблокировка при использовании канала</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_06.py">Использование communicate</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_07.py">Конкурентное шифрование текста</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_08.py">Подпроцессы и семафор</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_09.py">Копирование данных, введенных пользователем</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_10.py">Использование communicate со стандартным выводом</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_11.py">Приложение echo</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_12.py">Запуск приложения echo в подпроцессе</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_13.py">Более сложная программа echo</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_13/listing_13_14.py">Разделение чтения вывода и записи ввода</a></li>
+</ol>
+<h4 id="chapter_14"><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14">14) Управление подпроцессами:</a></h4>
+<ol>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_01.py">Класс исполнителя задач</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_02.py">Сервер с контекстными переменными</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_03.py">Принудительный запуск итерации цикла событий</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_04.py">Использование uvloop в качестве цикла событий</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_05.py">Сопрограммы на основе генераторов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_06.py">Чередование генераторов</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_07.py">Использование send для сопрограмм</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_08.py">Реализация класса CustomFuture</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_09.py">Использование объекта CustomFuture в цикле</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_10.py">Сокеты и будущие объекты</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_11.py">Реализация задачи</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_12.py">Реализация цикла событий</a></li>
+<li><a href="https://github.com/Shcherbakov98/async_book/blob/dev/chapter_14/listing_14_13.py">Реализация сервера</a></li>
+</ol>
